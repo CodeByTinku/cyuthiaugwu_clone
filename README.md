@@ -17,8 +17,7 @@ GSAP (GreenSock Animation Platform): Advanced animations
 Locomotive Scroll: Smooth scrolling library
 Remix Icon: Icon library for UI elements
 
-## 🎬 Live Demo
-[View Live Demo](https://yourusername.github.io/cynthia-ugwu-clone)
+--- 
 🎨 Key Sections
 Hero Section: Animated headings with designer introduction
 Portfolio Grid: Interactive project showcase with hover effects
